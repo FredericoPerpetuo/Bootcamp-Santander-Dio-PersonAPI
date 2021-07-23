@@ -13,4 +13,4 @@
 - Maven 3.6.3 ou versões superiores.
 
 ## Futuras implementações
-- Teste unitários para cobrir todas as camadas do projeto.
+- Testes unitários para cobrir todas as camadas do projeto.
